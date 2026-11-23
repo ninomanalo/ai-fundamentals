@@ -1,0 +1,9 @@
+2026-11-23 23:56:46,093 - INFO - AFC is enabled with max remote calls: 10.
+2026-11-23 23:56:50,588 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-4-hydrogen:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-23 23:56:50,590 - ERROR - API error 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-11-23 23:56:52,591 - INFO - AFC is enabled with max remote calls: 10.
+2026-11-23 23:56:54,274 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-4-hydrogen:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-23 23:56:54,275 - ERROR - API error 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-11-23 23:56:58,276 - INFO - AFC is enabled with max remote calls: 10.
+2026-11-23 23:57:01,215 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-4-hydrogen:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-23 23:57:01,216 - ERROR - API error 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
